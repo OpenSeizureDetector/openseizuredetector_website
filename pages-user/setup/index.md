@@ -23,6 +23,20 @@ You will need:
 
 ---
 
+## Video Version
+
+There is a (very unprofessional!) video walking through these instructions for a PineTime watch that you can see here:
+
+<iframe
+      src="https://www.youtube.com/embed/v9GzcKG0mVc"
+      width="350"
+      height="240"
+      frameborder="0"
+      allowfullscreen="true">
+</iframe>
+
+---
+
 ## Part 1 — Install the App
 
 Install **OpenSeizureDetector** from the Google Play Store:

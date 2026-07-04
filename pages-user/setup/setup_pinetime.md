@@ -17,6 +17,16 @@ You will need:
 
 In the OpenSeizureDetector phone app, you should be on the *Configure PineTime Watch* setup wizard screen.
 
+There is a video version of these instructions included in the following installation demonstration:
+<iframe
+      src="https://www.youtube.com/embed/v9GzcKG0mVc"
+      width="350"
+      height="240"
+      frameborder="0"
+      allowfullscreen="true">
+</iframe>
+
+
 ---
 
 ## Configure PineTime Watch

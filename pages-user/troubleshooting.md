@@ -21,6 +21,24 @@ title: Troubleshooting
 - If the watch is not connected to the phone, press and release the watch button. This should wake up the watch and enable the bluetooth to reconnect without doing anything else.
 - Sometimes the watch will crash and not respond correctly. Re-boot it by pressing and holding the watch button for about 10 seconds until a pine cone appears on the screen, then release the button.
 
+- If the watch does not charge, this will be a problem with either the charger or the watch itself.   An uncharged PineTime should burst into life very quickly (within seconds) when it is put on the charger, as shown [here](https://www.youtube.com/watch?v=qUE6MW5zfyE).   
+<iframe
+      src="https://www.youtube.com/embed/qUE6MW5zfyE"
+      width="350"
+      height="240"
+      frameborder="0"
+      allowfullscreen="true">
+</iframe>
+
+If the watch is not charging, you can chech the charger is working as expected as shown [here](https://www.youtube.com/watch?v=klbR8mB-e9c).
+<iframe
+      src="https://www.youtube.com/embed/klbR8mB-e9c"
+      width="350"
+      height="240"
+      frameborder="0"
+      allowfullscreen="true">
+</iframe>
+
 ### General
 
 If OpenSeizureDetector does not receive data from the watch, it will generate an annoying 'pip' sound every 5 seconds and display 'FAULT' on the main screen and in the app notification. The Start-up screen will not exit until data has been received, so the app may be stuck on the start-up screen. If this is happening to you, please check the following:

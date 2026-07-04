@@ -24,8 +24,13 @@ There are a couple of rather unprofessional videos showing OpenSeizureDetector r
 
 ### PineTime Firmware Installation Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D_0-vbt0xsc?si=r96HU6o7gl9N1igT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe
+      src="https://www.youtube.com/embed/v9GzcKG0mVc"
+      width="350"
+      height="240"
+      frameborder="0"
+      allowfullscreen="true">
+</iframe>
 
 
 
