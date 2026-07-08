@@ -19,7 +19,7 @@ cards:
       - text: System Components
         url: /pages-developer/components.html
       - text: Project Overview
-        url: /pages-about/
+        url: /pages-about/index.html
 
   - title: Contributing
     description: Help improve the project.

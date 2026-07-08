@@ -1,5 +1,12 @@
 title: Open Seizure Detector
 description: Free, Open Source tools to alert carers if someone suffers an epileptic seizure
+
+
+logo: /assets/images/icon_48x48.png
+
+image: /assets/images/social-preview.png
+
+
 show_downloads: false
 google_analytics:
 baseurl: .
