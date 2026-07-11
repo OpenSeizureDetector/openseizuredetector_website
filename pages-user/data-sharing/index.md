@@ -48,7 +48,7 @@ All data that is shared with other researchers will be anonymised – you will o
 
 The System Administrator (Graham Jones, graham@openseizuredetector.org.uk) will have access to your name and email address that you used to register with the database. If we notice some particularly 'interesting' features of your data I may use this to ask if you would be happy to answer some questions about what was happening at the time of the event – you are allowed to say 'no'!
 
-For full details of how OpenSeizureDetector collects and uses your personal data, please refer to the [OpenSeizureDetector Privacy Policy](/pages-about/privacy-policy.html).
+For full details of how OpenSeizureDetector collects and uses your personal data, please refer to the [OpenSeizureDetector Privacy Policy]({{ '/pages-about/privacy-policy.html' | relative_url }}).
 
 If you decide that you do not want your data to be held on the database, please contact graham@openseizuredetector.org.uk and I will remove your data.
 
