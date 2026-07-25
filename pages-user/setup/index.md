@@ -191,6 +191,20 @@ is displayed and seizure detection is active.
 See [Using OpenSeizureDetector](../using-openseizuredetector-v5.html) for an overview of
 using the app once it is set-up.
 
+## SMS Alerts
+If you want the phone to alert carers using SMS text messages, start the app and do the following:
+ - Open the settings screen (Menu -> Settings).
+ - Select Alarms
+ - Scroll down the list of settings until you find the section on SMS alarms.
+ - Select SMS Numbers, and enter the numbers of the phones you wish to be alerted by SMS, separated by a comma (,).
+ - Select Enable SMS Alerts
+ - Press the back button twice to return to the main activity screen.
+ - The app should re-start, and you will be prompted to grant the additional
+   permissions needed to send SMS alerts that contain your location.
+ - In the main app screen, select Menu -> Test SMS Alarms - it should send SMS text messages to the selected numbers.
+
+**NOTE** There is a bug in V5.0.8 which means that unless the data source is selected to 'Phone', the app does not request the required permsissions to send SMS alerts, so when you test the alert you see an error about 'Failed to Send SMS Message'.    You can work around this problem by either selecting the data source to 'Phone' and re-starting the app (and accepting the reqested permissions when asked), and then changing the data source back to your chosen watch, or using the main phone settings to select Apps->OpenSeizureDetector->Permissions and granting all of the permissions.
+
 ---
 
 ## Troubleshooting
@@ -200,5 +214,6 @@ using the app once it is set-up.
 | App closed by Android in background | Set OSD to *Not optimised* in your phone's Battery Optimisation settings |
 | Wizard does not start on first launch | Open Settings in the app and tap *Run Setup Wizard* |
 | Need to re-run setup | Open Settings in the app and tap *Run Setup Wizard* |
+| Failed to Send SMS Message displayed | Select data source to phone and re-start - it will ask for the required permissions.  Then select back to the correct watch and re-start - see SMS Alerts section above.|
 
 For more information visit [openseizuredetector.org.uk](https://openseizuredetector.org.uk)
