@@ -58,6 +58,20 @@ Please contact graham@openseizuredetector.org.uk if you think anything needs to 
 </tr>
 
 <tr>
+<td><b><a href="https://epiwatch.com//">EpiWatch</a></b></td>
+<td>Apple Watch</td>
+<td>Motion, HR ML (Isolation Forest and classifiers) [11]</td>
+<td>Peer Reviewed Papers [11]</td>
+<td>Unknown</td>
+<td>Yes (for alerts)</td>
+<td>Call, SMS or Email</td>
+<td>£727 (£187 + £180/yr)</td>
+<td>98% [11]</td>
+<td>0.08 /day</td>
+<td>Hospital EMU (not real world)</td>
+</tr>
+
+<tr>
 <td><b><a href="https://www.seizalarm.com/">SeizAlarm</a></b></td>
 <td>Apple Watch</td>
 <td>Motion + HR thresholds [2]</td>
@@ -198,6 +212,8 @@ Please contact graham@openseizuredetector.org.uk if you think anything needs to 
 [9] [Nouboue et. al. (2023). Assessment of an under-mattress sensor as a seizure detection tool in an adult epilepsy monitoring unit. Seizure: European Journal of Epilepsy, 105, 17–21. ](https://doi.org/10.1016/j.seizure.2023.01.005)
 
 [10] [SAMI3 Information, ratings and feedback](https://www.epilepsy.org.uk/epilepsy-technology-guide-sami-3-kit)
+
+[11] [EpiWatch - First Paper](https://www.sciencedirect.com/science/article/pii/S1525505024002890), [EpiWatch - Second Paper](https://www.neurology.org/doi/10.1212/WN9.0000000000000111)
 
 ---
 
