@@ -52,7 +52,7 @@ Please contact graham@openseizuredetector.org.uk if you think anything needs to 
 <td>Required</td>
 <td>SMS / call</td>
 <td>~£728 (≈£299 + £143/yr)</td>
-<td>~95% [1]</td>
+<td>~94% [1]</td>
 <td>~0.25/day [1]</td>
 <td>Multicentre clinical study</td>
 </tr>
@@ -193,27 +193,27 @@ Please contact graham@openseizuredetector.org.uk if you think anything needs to 
 
 ## References
 
-[1] [Empatica seizure detection study (Epilepsia)](https://onlinelibrary.wiley.com/doi/10.1111/epi.13681) [1](https://www.sciencedaily.com/releases/2017/10/171031084830.htm)  
+[1]: [Real-World Performance of an FDA-Cleared Seizure Detector Using a Next-Generation Accelerometer and Electrodermal Activity-Based Wristband](https://aesnet.org/abstractslisting/real-world-performance-of-an-fda-cleared-seizure-detector-using-a-next-generation-accelerometer-and-electrodermal-activity-based-wristband)   
 
-[2] [SeizAlarm documentation](https://www.seizalarm.com/false-alarm-reduction-tips)  
+[2]: [SeizAlarm documentation](https://www.seizalarm.com/false-alarm-reduction-tips)  
 
-[3] [SmartMonitor study summary](https://epilepsysolutions.co.uk/inspyre-faqs)   
+[3]: [SmartMonitor study summary](https://epilepsysolutions.co.uk/inspyre-faqs)   
 
-[4] [Brain Sentinel Summary](https://www.prweb.com/releases/brain_sentinel_s_speac_system_demonstrates_equivalence_in_sensitivity_to_detect_generalized_tonic_clonic_seizures_to_video_eeg/prweb14746451.htm)  
+[4]: [Brain Sentinel Summary](https://www.prweb.com/releases/brain_sentinel_s_speac_system_demonstrates_equivalence_in_sensitivity_to_detect_generalized_tonic_clonic_seizures_to_video_eeg/prweb14746451.htm)  
 
-[5] [NightWatch study (Neurology)](https://nightwatchepilepsy.com/wp-content/uploads/2022/03/Neurology_NightWatch_Multimodal-nocturnal-seizure-detection-in-a-residential-care-setting.pdf)  
+[5]: [NightWatch study (Neurology)](https://nightwatchepilepsy.com/wp-content/uploads/2022/03/Neurology_NightWatch_Multimodal-nocturnal-seizure-detection-in-a-residential-care-setting.pdf)  
 
-[6] [OpenSeizureDetector ML Algorithm performance using user-supplied data](https://www.openseizuredetector.org.uk/static/osd_pages/pages-user/seizure-detection/ml-models/deepEpiCnn-24/OSD_ML_Model_Development_Report_Draft_C.pdf).  Uses real-world data.
+[6]: [OpenSeizureDetector ML Algorithm performance using user-supplied data](https://www.openseizuredetector.org.uk/static/osd_pages/pages-user/seizure-detection/ml-models/deepEpiCnn-24/OSD_ML_Model_Development_Report_Draft_C.pdf).  Uses real-world data.
 
-[7] [EpiHunter performance summary](https://www.epilepsysparks.com/epihunter)  
+[7]: [EpiHunter performance summary](https://www.epilepsysparks.com/epihunter)  
 
-[8] [Owlet User Manual](https://cdn.shopify.com/s/files/1/0050/6508/0945/files/Dream_Sock_User_Manual.pdf?v=1741191796)
+[8]: [Owlet User Manual](https://cdn.shopify.com/s/files/1/0050/6508/0945/files/Dream_Sock_User_Manual.pdf?v=1741191796)
 
-[9] [Nouboue et. al. (2023). Assessment of an under-mattress sensor as a seizure detection tool in an adult epilepsy monitoring unit. Seizure: European Journal of Epilepsy, 105, 17–21. ](https://doi.org/10.1016/j.seizure.2023.01.005)
+[9]: [Nouboue et. al. (2023). Assessment of an under-mattress sensor as a seizure detection tool in an adult epilepsy monitoring unit. Seizure: European Journal of Epilepsy, 105, 17–21. ](https://doi.org/10.1016/j.seizure.2023.01.005)
 
-[10] [SAMI3 Information, ratings and feedback](https://www.epilepsy.org.uk/epilepsy-technology-guide-sami-3-kit)
+[10]: [SAMI3 Information, ratings and feedback](https://www.epilepsy.org.uk/epilepsy-technology-guide-sami-3-kit)
 
-[11] [EpiWatch - First Paper](https://www.sciencedirect.com/science/article/pii/S1525505024002890), [EpiWatch - Second Paper](https://www.neurology.org/doi/10.1212/WN9.0000000000000111)
+[11]: [EpiWatch - First Paper](https://www.sciencedirect.com/science/article/pii/S1525505024002890), [EpiWatch - Second Paper](https://www.neurology.org/doi/10.1212/WN9.0000000000000111)
 
 ---
 
