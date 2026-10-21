@@ -122,14 +122,10 @@ With a 5 second analysis window:
 
 This is why the design summary selected 25 Hz sampling with 5 second windows.
 
-### Additional notes
-
-- The algorithm documentation also describes an experimental multiple-ROI variant to improve detection of lower-frequency seizure movement (for example around 4 Hz).
-- The documentation also notes expected FFT behavior, including strong low-frequency/DC components caused by gravity in accelerometer signals.
 
 ### What the design is trying to detect
 
-The design targets sustained rhythmic movement typical of tonic-clonic seizure phases, with energy often concentrated in approximately the 5-10 Hz region.
+The design targets sustained rhythmic movement typical of tonic-clonic seizure phases, with energy often concentrated in approximately the 3-8 Hz region.
 
 Important assumptions:
 
